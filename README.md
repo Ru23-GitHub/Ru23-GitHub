@@ -16,7 +16,7 @@ Yep, I do do things other than CompSci! In my free time I enjoy travelling the w
 I enjoy Computer Science because I believe it gives me the capability to reach and assist others at a scale that other occupations couldn't reach. With that said, I'm looking for backend or frontend work experiences to help broaden my understanding of industry operations and further hone my skills, as well as allow myself to assist teams with my skillset to develop quality products for clientele! 
 
 ### How can I contact you? 💬
-To ~~slide into my DMs~~ reach me, shoot me a message any of these links! |
+To ~~slide into my DMs~~ reach me, shoot me a message at any of these links! |
 [LinkedIn](https://www.linkedin.com/in/ruslan-manoharan-3b18801a4/) |
 [Instagram](https://www.instagram.com/rumanoharan/) |
 [Gmail](ruslan.manoharan@gmail.com) |
